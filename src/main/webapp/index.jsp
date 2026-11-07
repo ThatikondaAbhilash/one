@@ -1334,7 +1334,7 @@ footer {
 
     <nav class="main-nav" id="mainNav" aria-label="Main navigation">
       <ul>
-        <li><a href="#" class="active"><i class="fas fa-house"></i> Home</a></li>
+        <li><a href="#" class="active"><i class="fas fa-house"></i> Home - Change</a></li>
         <li><a href="#categories"><i class="fas fa-th-large"></i> Categories</a></li>
         <li><a href="#products"><i class="fas fa-fire"></i> Trending</a></li>
         <li><a href="#deals"><i class="fas fa-tag"></i> Deals</a></li>

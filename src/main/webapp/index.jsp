@@ -1558,7 +1558,7 @@ footer {
         <a class="brand" href="#">
           <span>N</span><span>E</span><span>X</span><span>U</span><span>S</span>
         </a>
-        <p>Shop the future. A demo storefront for the next generation of commerce.</p>
+        <p>Shop in the future. A demo storefront for the next generation of commerce.</p>
         <div class="socials">
           <a href="#" aria-label="Twitter"><i class="fab fa-x-twitter"></i></a>
           <a href="#" aria-label="Instagram"><i class="fab fa-instagram"></i></a>
